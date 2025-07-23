@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Apply for Internship - Cognifyz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="apply-container">
+    <h1>🚀 Application Form</h1>
+    <p>Fill in the form below to apply for the Web Developer Internship at Cognifyz Technologies.</p>
+
+    <!-- Form action links to the hidden popup using anchor -->
+    <form class="apply-form" action="#thankyou" method="get">
+      <input type="text" placeholder="Full Name" required />
+      <input type="email" placeholder="Email Address" required />
+      <input type="text" placeholder="LinkedIn / Portfolio URL" />
+      <textarea placeholder="Tell us why you're interested..." rows="4"></textarea>
+      <button type="submit">Submit Application</button>
+    </form>
+  </div>
+
+  <!-- Thank You Popup -->
+  <div id="thankyou" class="thank-you-popup">
+    <div class="popup-content">
+      <h3>🎉 Thank You for Your Submission!</h3>
+      <p>Your application has been received successfully.</p>
+      <a href="apply.html" class="close-btn">Close</a>
+    </div>
+  </div>
+
+</body>
+</html>
