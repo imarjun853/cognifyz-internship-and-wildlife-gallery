@@ -52,7 +52,8 @@ project-root/
 ## 📸 Preview
 
 ### Wildlife Gallery  
-![Gallery Preview](images/preview1.jpg)
+![Gallery Preview](<img width="1918" height="1012" alt="preview1" src="https://github.com/user-attachments/assets/1daa34f9-518c-4538-aad8-4b3981902b53" />
+)
 
 ### Internship Page  
 ![Internship Preview](images/preview2.jpg)
